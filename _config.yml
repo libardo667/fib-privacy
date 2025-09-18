@@ -2,7 +2,7 @@ title: Fibonacci Project Registry (GPT Action)
 description: Privacy Policy and Terms
 theme: minima
 url: https://libardo667.github.io
-base_url: /fib-privacy
+baseurl: /fib-privacy
 markdown: kramdown
 plugins: []
 kramdown:
