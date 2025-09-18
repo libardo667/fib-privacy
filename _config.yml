@@ -1,0 +1,9 @@
+title: Fibonacci Project Registry (GPT Action)
+description: Privacy Policy and Terms
+theme: minima
+markdown: kramdown
+plugins: []
+kramdown:
+  input: GFM
+  hard_wrap: false
+# GitHub Pages will read this automatically
