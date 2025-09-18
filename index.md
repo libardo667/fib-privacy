@@ -7,6 +7,5 @@ title: Home
 
 This site hosts the **Privacy Policy** and **Terms of Use** for the Google Sheets Action that powers the Fibonacci Project Registry.
 
-- 👉 [Privacy Policy](/privacy-policy)
-- 👉 [Terms of Use](/terms)
-
+- 👉 [Privacy Policy]({{ site.baseurl }}/privacy-policy/)
+- 👉 [Terms of Use]({{ site.baseurl }}/terms)
