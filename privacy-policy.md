@@ -8,7 +8,7 @@ permalink: /privacy-policy/
 
 **Effective date:** September 17, 2025  
 **App:** Fibonacci Project Registry (GPT Action)  
-**Contact:** [you@example.com](mailto:you@example.com)
+**Contact:** [levibanks95@gmail.com](mailto:levibanks95@gmail.com)
 
 ## Summary
 This app connects a custom GPT to **Google Sheets** to publish the *Fibonacci Project Registry* and related logs. We request the minimum scopes needed and use your data **only** to fulfill your direct requests. We do **not** sell or share your data for advertising.
@@ -59,7 +59,7 @@ This app is not directed to children under 13 and does not knowingly collect the
 If we update this policy, we will post a new “Effective date” above. Material changes will be highlighted.
 
 ## Contact
-Questions? Email [you@example.com](mailto:you@example.com).
+Questions? Email [levibanks95@gmail.com](mailto:levibanks95@gmail.com).
 
 **References**  
 - Google Privacy Policy  

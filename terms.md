@@ -7,7 +7,7 @@ permalink: /terms/
 # Terms of Use
 
 **App:** Fibonacci Project Registry (GPT Action)  
-**Contact:** [you@example.com](mailto:you@example.com)
+**Contact:** [levibanks95@gmail.com](mailto:levibanks95@gmail.com)
 
 By using this app, you agree to:
 1. Use it only for lawful purposes and in accordance with applicable contracts and policies.  
@@ -27,4 +27,4 @@ You may stop using the app at any time and revoke access in your Google Account.
 We may update these Terms; continued use after changes means you accept the updated Terms.
 
 ## Contact
-[you@example.com](mailto:you@example.com)
+[levibanks95@gmail.com](mailto:levibanks95@gmail.com)
